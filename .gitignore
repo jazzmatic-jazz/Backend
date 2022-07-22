@@ -1,0 +1,3 @@
+env/
+notes/.env
+db.sqlite3
